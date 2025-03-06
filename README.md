@@ -1,4 +1,4 @@
-# FullStack Twitch Clone: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL & TypeScript
+# FullStack Twitch Clone: Next.js 14, Livestreaming, React, Prisma, Tailwind, MySQL & TypeScript
 
 Credits: [Antonio Erdeljac](https://github.com/AntonioErdeljac)
 
@@ -7,7 +7,7 @@ Key Features:
 - 📡 Streaming using RTMP / WHIP protocols
 - 🌐 Generating ingress
 - 🔗 Connecting Next.js app to OBS
-- 🔐 Authentication
+- 🔐 Authentication wiyh Clerk
 - 📸 Thumbnail upload with Uploadthing
 - 👀 Live viewer count
 - 🚦 Live statuses
@@ -31,7 +31,11 @@ Key Features:
 - ⚡ Blazing fast application
 - 📄 SSR (Server-Side Rendering)
 - 🗺️ Grouped routes & layouts
-- 🗃️ MySQL DB with PlanetScale
+- 🗃️ MySQL DB with Prisma
+
+### TechStack
+<img src = "https://img.icons8.com/?size=60&id=r2OarXWQc7B6&format=png&color=ffffff"/> <img src = "https://img.icons8.com/?size=60&id=Nlsua06Gvxel&format=png&color=000000"/> <img src = "https://img.icons8.com/?size=60&id=CIAZz2CYc6Kc&format=png&color=000000"/> <img src = "https://img.icons8.com/?size=60&id=UFXRpPFebwa2&format=png&color=000000"/> <img src = "https://img.icons8.com/?size=60&id=YKKmRFS8Utmm&format=png&color=000000"/> <img src = "https://img.icons8.com/?size=60&id=hsPbhkOH4FMe&format=png&color=000000"/> <a href="https://imgbb.com/"><img src="https://i.ibb.co/MDhc1T1J/clerk-logo-dark-accent.png" height=60></a> <img src = "https://github.com/user-attachments/assets/129e551e-069b-4474-917d-0288e7dba973" height=60/> <img src = "https://github.com/user-attachments/assets/e457c2b7-3d0f-4724-a46b-d756c0eaa2c5" height=60/> <img src = "https://cdn.prod.website-files.com/63ed4bc7a4b189da942a6b8c/63ef8624e010d9861920be4e_ngrok-favicon.svg" height=60/>
+
 
 ### Prerequisites
 
